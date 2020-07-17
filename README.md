@@ -1,4 +1,5 @@
 # dva-umi-practice
+# 主要用于熟悉umi的layout,实现不同page配合不同layout，以及Umi数据流转递
 
 cd myapp
 npm i
